@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\bin\Debug\6-ByteBanck.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\bin\Debug\6-ByteBanck.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\bin\Debug\6-ByteBanck.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\obj\Debug\6-ByteBank.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\obj\Debug\6-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\obj\Debug\6-ByteBanck.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\6-ByteBanck\obj\Debug\6-ByteBanck.pdb

@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\bin\Debug\5-ByteBank.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\5-ByteBank\obj\Debug\5-ByteBank.pdb

@@ -1,0 +1,7 @@
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe.config
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\bin\Debug\04-ByteBank.pdb
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\obj\Debug\4-ByteBank.csprojAssemblyReference.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\obj\Debug\4-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.exe
+C:\Users\felip\Desktop\CURSOS ALURA\Csharp2\ByteBank\04-ByteBank\obj\Debug\04-ByteBank.pdb
